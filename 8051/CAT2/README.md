@@ -45,7 +45,7 @@ The push button is detected when P2.3 becomes LOW. P2.7 is kept LOW to provide t
 
 ### Circuit Diagram
 
-![Circuit Diagram](AT89S52 Microcontroller Circuit Diagram.png)
+![Circuit Diagram](blob:https://chatgpt.com/ad341051-cf67-45d3-83c7-6cd376382465)
 
 ---
 
